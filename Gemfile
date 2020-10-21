@@ -38,6 +38,7 @@ gem 'carrierwave'
 gem 'simple_form'
 gem "mini_magick"
 gem 'impressionist'
+gem 'carrierwave'
 gem 'jquery-rails'
 gem 'gravatar_image_tag'
 gem 'acts_as_votable'
